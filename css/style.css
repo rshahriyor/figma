@@ -1,0 +1,231 @@
+.ryad1 {
+    width: 1170px;
+}
+.home {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.booking {
+    width: 155px;
+    height: 46px;
+    background-color: rgb(220, 120, 11);
+    border: 1px rgb(220, 120, 11) solid;
+    border-radius: 5px;
+}
+.marginleft {
+    margin-left: 43px;
+}
+.hometext {
+    color: rgb(220, 120, 11);
+}
+.header2 {
+    margin-top: 200px;
+}
+.description {
+    width: 545px;
+}
+.h1 {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.h6 {
+    width: 550px;
+}
+.order {
+    width: 158px;
+    height: 60px;
+    background-color: rgb(220, 120, 11);
+    border: 1px rgb(220, 120, 11) solid;
+    border-radius: 5px;
+    font-weight: 600
+    ;
+}
+.details {
+    width: 158px;
+    height: 60px;
+    border: 1px rgb(253, 248, 243) solid;
+    border-radius: 5px;
+    color: rgb(220, 120, 11); 
+    font-weight: 600;
+}
+.posrelat {
+    position: relative;
+}
+.kotlet {
+    position: absolute;
+    right: -130px;
+    top: -200px;
+}
+.features {
+    margin-top: 250px;
+}
+.h5 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(220, 120, 11);
+}
+.h3 {
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 1000;
+    font-size: 30px;
+}
+.h4 {
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+.p {
+    width: 300px;
+    font-weight: 600;
+}
+.about-us {
+    margin-top: 90px;
+    background-image: url(../img/Vector\ 3.png);
+    background-repeat: no-repeat;
+}
+.about-us-text {
+    margin-left: 90px;
+}
+.fast-food {
+    width: 490px;
+    font-weight: 600;
+}
+.read-more {
+    background-color: rgb(220, 120, 11);
+    border: 1px rgb(220, 120, 11) solid;
+    border-radius: 5px;
+    width: 142px;
+    height: 42px;
+    font-weight: 600;
+}
+.learn-more {
+    border-radius: 5px;
+    width: 142px;
+    height: 42px;
+    border: 1px rgb(253, 248, 243) solid;
+    font-weight: 600;
+    color: rgb(220, 120, 11);
+}
+.menu {
+    margin-top: 90px;
+}
+.menu-text {
+    width: 750px;
+    font-weight: 600;
+}
+.vegie {
+    width: 365px;
+    height: 420px;
+    position: relative;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+.img-vegie {
+    position: absolute;
+    top: 0px;
+    right: -1px;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-right-radius: 12px;
+}
+.weight {
+    font-weight: 600;
+}
+.text-vegie {
+    margin-top: 245px;
+}
+.btn-plus {
+    width: 36px;
+    height: 34px;
+    background-color: rgb(220, 120, 11);
+    border-radius: 5px;
+    border: 1px rgb(220, 120, 11) solid;
+}
+.take-away {
+    background-color: rgb(253, 248, 243);
+    margin-top: 150px;
+    height: 518px;
+}
+.width {
+    width: 550px;
+}
+.uppercase {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(235, 161, 81);
+}
+.uppercase::first-line {
+    letter-spacing: 3px;
+}
+.iphone {
+    box-shadow: 1px 5px 15px rgb(233, 195, 154);
+    border-radius: 45px;
+}
+.app-store {
+    width: 163px;
+    height: 45px;
+    background-color: #150c01;
+    color: white;
+    border: none;
+}
+.google-play {
+    background-color: rgb(253, 248, 243);
+    width: 163px;
+    border: 1px rgb(233, 228, 228) solid;
+}
+.fa {
+    color: rgb(185, 185, 185);
+}
+.testimonial {
+    margin-top: 225px;
+}
+.profile {
+    background-image: url(../img/Vector\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fa-star {
+    color: rgb(220, 120, 11);
+}
+.names {
+    font-weight: 600;
+}
+.designer {
+    font-size: 14px;
+}
+.contact {
+    background-color: rgb(253, 240, 228);
+    margin-top: 90px;
+    padding: 100px 0px 100px 0px;
+}
+input::placeholder {
+    color: rgb(168, 166, 166);
+    text-indent: 20px;
+}
+.px600 {
+    width: 600px;
+}
+input {
+    width: 560px;
+    outline-style: none;
+}
+.send {
+    height: 65px;
+    width: 140px;
+    background-color: rgb(220, 120, 11);
+}
+.footer {
+    background-color: rgb(48, 44, 44);
+    padding: 100px 0px 100px 0px;
+}
+.footer-text {
+    color: rgb(185, 185, 185);
+}
+.h6-footer {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 19px;
+}
